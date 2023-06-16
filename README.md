@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reus42
 - 👀 I’m interested in software
 - 🌱 I’m currently learning c#,dart,java,php,sql
-https://ozsahinugur.com.tr
+-     https://ozsahinugur.com.tr
 
 <!---
 Reus42/Reus42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
